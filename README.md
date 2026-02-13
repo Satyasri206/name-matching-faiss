@@ -48,10 +48,11 @@ Run the application from the project root directory:
 
 python -m src.main
 
-Usage
+#### Usage
 
 When prompted, enter a name to find similar matches:
 
+#### sample output
 Enter a name (or type 'exit'): ganesh
 
 Best Match:

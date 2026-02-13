@@ -10,30 +10,6 @@ over the embedded vectors.
 
 This project runs fully locally and does not require any external APIs or paid services.
 
----
-
-## Project Structure
-
-name-matching/
-├── data/
-│ └── names_dataset.json
-├── embeddings/
-│ └── names.index
-├── src/
-│ ├── init.py
-│ ├── data_loader.py
-│ ├── embedder.py
-│ ├── vector_index.py
-│ ├── similarity_search.py
-│ └── main.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-
-
-
----
 
 ## Setup Instructions
 
